@@ -2,3 +2,29 @@
   "start": "node server.js"
 },
 "main": "server.js"
+
+
+
+
+{
+    "name": "nt2",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Brian Carter <bcarter1@ups.com>",
+    "description": "a simple web server",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+        "start": "node ./server.js"
+    },
+    "dependencies": {
+
+    }
+}
+
+
+
+
+
